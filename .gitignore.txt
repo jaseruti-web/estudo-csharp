@@ -1,0 +1,17 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Usuário
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Sistema operacional
+Thumbs.db
+*.DS_Store
