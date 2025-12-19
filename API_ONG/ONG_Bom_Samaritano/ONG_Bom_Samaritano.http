@@ -1,0 +1,6 @@
+@ONG_Bom_Samaritano_HostAddress = http://localhost:5013
+
+GET {{ONG_Bom_Samaritano_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
